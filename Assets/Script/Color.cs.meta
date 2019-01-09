@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a8a018f05efcf5749af804a059ce38d2
+timeCreated: 1456816076
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - aqua: {fileID: 2100000, guid: 396d16fb67120b14bbe289b96e24b408, type: 2}
+  - brown: {fileID: 2100000, guid: 466288314097cd248a458a7d6ea128f9, type: 2}
+  - lightgreen: {fileID: 2100000, guid: d67e4572500bacb4499a08b3514ea0a9, type: 2}
+  - purple: {fileID: 2100000, guid: 2f8dc14837446b048a740eab6cf6c11c, type: 2}
+  - navy: {fileID: 2100000, guid: b51d2ff6220294044837817632616dcb, type: 2}
+  - orange: {fileID: 2100000, guid: 056fb81a86209394da601097dc3f1ea1, type: 2}
+  - blue: {fileID: 2100000, guid: e454989b43a55124e99f84521b791ad2, type: 2}
+  - cream: {fileID: 2100000, guid: 00c11066cc47ac14886c596a12ad9781, type: 2}
+  - pink: {fileID: 2100000, guid: a2c8b90ed650d0a4182a6b319363147b, type: 2}
+  - gray: {fileID: 2100000, guid: f3588637679a6c44b9f539a92b4a2702, type: 2}
+  - green: {fileID: 2100000, guid: 9568d476d610a944da3733fb39a68608, type: 2}
+  - lightpurple: {fileID: 2100000, guid: 9b05c88eba4a5344ca99b4e10f1e7573, type: 2}
+  - yellow: {fileID: 2100000, guid: bd64d08a2d2e6d64290eababcf96ff07, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

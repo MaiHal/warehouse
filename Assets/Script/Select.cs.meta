@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aebd719ece35cb64ca147122377fdaf3
+timeCreated: 1456579036
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - plane1: {fileID: 189580, guid: b47856baf8f8f3d4d847404058a6dcbc, type: 2}
+  - plane2: {fileID: 135830, guid: b3d7341b6f40e2e45bedc3024dbde404, type: 2}
+  - plane3: {fileID: 125170, guid: 735e15aa9e5c4f74b84fa6d17c8c2c6d, type: 2}
+  - plane41: {fileID: 121792, guid: 424afbcff100e694397c200093432894, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

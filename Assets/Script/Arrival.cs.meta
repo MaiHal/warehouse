@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3ac24717bda66fc449e4c3601807c250
+timeCreated: 1456803707
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cube1: {fileID: 181750, guid: 1dd7110a2334a944b9e4011f37511148, type: 2}
+  - cube2: {fileID: 159274, guid: 58b385c629f47c54cb772c84f135612d, type: 2}
+  - cube4: {fileID: 197506, guid: cb4b3673a22f5a94eaf2fd4500af0141, type: 2}
+  - cube8: {fileID: 149018, guid: 279b0459b0e7e11469d2bc7977aff191, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
